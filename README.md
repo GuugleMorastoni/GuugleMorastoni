@@ -1,7 +1,7 @@
 ### Hello. My name is Gustavo Queiroz Morastoni, I'm a student from Brazil. My goal here is to understand how coding works. NOT BACKING DOWN 🤘
 
 - Studying on the platform Alura;
-- Currently working with JavaScript, Scratch and Markdown;
+- Currently working with JavaScript, HTML, Scratch and Markdown;
 - Using GitHub for organization and advertising purposes.
 
   ### CONTACTS:
